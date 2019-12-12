@@ -1,1 +1,5 @@
+locale: en-US
 theme: jekyll-theme-merlot
+include:
+    - README.md
+    - index.md
