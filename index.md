@@ -6,6 +6,6 @@ Specifically, Computer Science is an excellent choice for anyone who likes to so
 During my studies so far I've fallen in love with the mathematics involved in computer science; optimization, graph theory, number theory and in general, discrete mathematics.
 As a consequence, I'm currently planning to direct my master's more towards applied mathematics and operations research.
 
-[See what I learned from the CS-EJ4101 DevOps course!](diary-058.md)
+[See what I learned from the CS-EJ4101 DevOps course!](https://aaltomcc.github.io/cs-ej4101-fall-2019-058-starter/diary-058.html)
 
 ![Move along](network.jpg)
