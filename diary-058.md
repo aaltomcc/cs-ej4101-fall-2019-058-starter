@@ -19,3 +19,8 @@ Namely, that the working **_culture_** of the company is maybe the most importan
 Even though  the culture is a big aspect, there's still the A, M and S of the **CAMS** model, which refer to **Automation**, **Measurement** and **Sharing**, which form yet another important dimension in DevOps. Namely, automating menial and repetitive tasks both increase product quality as it frees resources elsewhere and consequently lowers to general expenses.
 Automation also plays a great role in the measurement, where data is collected from the process and work flow in order to detect and fix problems early and to give reference material of the things which can be improved, cf. Feedback Loops.
 The last part of the **CAMS** model is the sharing, which aims to improve visibility and transparency in order to eliminate information missmatch and to futher improve knowledge transfering within the company.
+
+So I would say that all-in-all I learned more about software culture during this course.
+
+[Back to front page](https://aaltomcc.github.io/cs-ej4101-fall-2019-058-starter)
+
